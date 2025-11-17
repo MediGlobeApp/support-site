@@ -1,9 +1,8 @@
 # MediGlobe - International Medication Finder
-
 <div align="center">
-  <img src="icon.png" alt="MediGlobe Icon" width="120" height="120">
-  
-  **Find your medications anywhere in the world**
+     <img src="assets/MediGlobe_Logo.png" alt="MediGlobe Icon" width="120" height="120">
+     
+     **Find your medications anywhere in the world**
   
   [![Platform](https://img.shields.io/badge/platform-iOS%2016%2B-blue.svg)]()
   [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
