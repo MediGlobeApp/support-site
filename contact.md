@@ -218,3 +218,33 @@ Expected Behavior:
 
 Additional Context:
 [Any other relevant information]
+
+---
+
+## ✅ What Happens Next?
+
+After you contact us:
+
+1. **Confirmation**: You'll receive an automated confirmation email
+2. **Review**: Our team reviews your message (within 24-48 hours)
+3. **Response**: We'll reply with next steps or a solution
+4. **Follow-up**: We may ask for additional information
+5. **Resolution**: We'll work with you until the issue is resolved
+
+---
+
+## 🙏 Thank You
+
+Thank you for using MediGlobe! Your trust in our app helps travelers worldwide feel safer when abroad.
+
+Every piece of feedback, every bug report, and every feature request helps us make MediGlobe better for everyone.
+
+**Safe travels! 🌍✈️**
+
+---
+
+**MediGlobe Support Team**  
+Email: [mediglobeapp@gmail.com](mailto:mediglobeapp@gmail.com)  
+Website: [https://mediglobeapp.github.io/support-site/](https://mediglobeapp.github.io/support-site/)
+
+*For informational purposes only. Not a substitute for professional medical advice.*
