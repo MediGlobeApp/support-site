@@ -6,10 +6,9 @@ title: MediGlobe Support
 # Welcome to MediGlobe Support
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="assets/icon.png" alt="MediGlobe Icon" width="120" height="120" style="border-radius: 22%;">
-  <h2 style="margin-top: 20px;">Find Your Medications Anywhere in the World</h2>
-  <p style="font-size: 1.2em; color: #666;">Your essential travel companion for medication information across 50+ countries</p>
-</div>
+     <img src="assets/MediGlobe_Logo.png" alt="MediGlobe Icon" width="120" height="120" style="border-radius: 22%;">
+     <h2 style="margin-top: 20px;">Find Your Medications Anywhere in the World</h2>
+   </div>
 
 ---
 
