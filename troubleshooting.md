@@ -834,7 +834,7 @@ Additional Information:
 
 ---
 
-**Last Updated**: November 2024  
-**Version**: 1.0
+**Last Updated**: November 2025  
+**Version**: 0.1
 
 **Found a solution not listed here?** Email us so we can add it: [mediglobeapp@gmail.com](mailto:mediglobeapp@gmail.com)
