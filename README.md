@@ -1,6 +1,6 @@
 # MediGlobe - International Medication Finder
 <div align="center">
-     <img src="assets/MediGlobe_Logo.png" alt="MediGlobe Icon" width="120" height="120">
+     <img src="Assets/MediGlobe_Logo.png" alt="MediGlobe Icon" width="120" height="120">
      
      **Find your medications anywhere in the world**
   
