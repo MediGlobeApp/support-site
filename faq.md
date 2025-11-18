@@ -107,20 +107,6 @@ Try:
 
 **Pro Tip**: Use generic names for best results (e.g., "ibuprofen" instead of "Advil").
 
-### What is the camera scanner feature?
-
-The camera scanner uses OCR (Optical Character Recognition) to:
-- Read medication labels
-- Extract medication names
-- Automatically search for equivalents
-
-**To use:**
-1. Tap the camera icon
-2. Point at the medication label
-3. Tap to capture
-4. Review extracted text
-5. Search automatically
-
 ### How does location detection work?
 
 MediGlobe can automatically detect your country using:
@@ -244,7 +230,6 @@ Yes! Your search history:
 ### What permissions does MediGlobe need?
 
 **Optional Permissions:**
-- **Camera**: For scanning medication labels (only when you use the feature)
 - **Location**: For automatic country detection (only when you use the feature)
 
 **You can use MediGlobe fully without granting any permissions.**
