@@ -17,7 +17,6 @@ MediGlobe is your essential travel companion for finding medication equivalents 
 
 - **🔍 Smart Search**: Find medications by generic or brand name
 - **🌐 50+ Countries**: Coverage across North America, Europe, Asia, and more
-- **📸 Camera Scanner**: Scan medication labels with OCR technology
 - **📍 Auto-Location**: Automatic country detection based on your location
 - **⭐ Favorites**: Save your most-searched medications for quick access
 - **💊 Drug Interactions**: Check potential interactions between medications
@@ -56,7 +55,6 @@ MediGlobe is your essential travel companion for finding medication equivalents 
 
 - Use generic names for better results (e.g., "ibuprofen" instead of "Advil")
 - Try alternative spellings (e.g., "paracetamol" vs "acetaminophen")
-- Use the camera scanner to quickly search from medication labels
 - Check favorites before traveling to ensure offline access
 - Always verify with local pharmacists when purchasing abroad
 
@@ -96,7 +94,7 @@ MediGlobe respects your privacy:
 - ✅ **Local storage only** - All data stays on your device
 - ✅ **No tracking** - We don't collect personal information
 - ✅ **No ads** - Clean, distraction-free experience
-- ✅ **Minimal permissions** - Only camera and location when you choose to use them
+- ✅ **Minimal permissions** - Only location when you choose to use it
 - ✅ **No health data collection** - Your searches remain private
 
 For complete details, see our [Privacy Policy](privacy.md).
