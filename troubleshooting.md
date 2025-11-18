@@ -116,87 +116,6 @@ Having issues with MediGlobe? This guide will help you resolve common problems q
 
 ---
 
-## 📸 Camera Scanner Issues
-
-### Camera Won't Open
-
-**Symptoms:**
-- Tapping camera button does nothing
-- Black screen appears
-- Permission denied message
-
-**Solutions:**
-
-1. **Grant camera permission**
-   - Go to iOS Settings → MediGlobe
-   - Tap "Camera"
-   - Select "Allow"
-   - Return to app and try again
-
-2. **Check camera availability**
-   - Try opening the iOS Camera app
-   - If iOS Camera doesn't work, restart device
-   - Clean camera lens with soft cloth
-
-3. **Update iOS**
-   - Go to Settings → General → Software Update
-   - Install any available updates
-   - Camera permissions sometimes require updates
-
-4. **Reinstall the app**
-   - Delete MediGlobe
-   - Restart your device
-   - Reinstall from App Store
-   - Grant camera permission when prompted
-
----
-
-### Camera Can't Read Text
-
-**Symptoms:**
-- Camera opens but doesn't recognize text
-- OCR fails to extract medication name
-- Wrong text is extracted
-
-**Solutions:**
-
-1. **Improve lighting**
-   - Use in well-lit area
-   - Avoid shadows on the label
-   - Use flash if needed
-   - Natural daylight works best
-
-2. **Hold steady and close**
-   - Hold device 4-6 inches from label
-   - Keep camera parallel to text
-   - Hold steady for 2-3 seconds
-   - Avoid motion blur
-
-3. **Clean and clear label**
-   - Wipe label with dry cloth
-   - Remove plastic wrapping if present
-   - Flatten curved labels if possible
-   - Avoid glossy reflections
-
-4. **Text quality issues**
-   - Very small text may not scan well
-   - Faded or damaged labels are harder to read
-   - Handwritten text won't work
-   - Non-English characters may not scan correctly
-
-5. **Manual entry fallback**
-   - If scanner fails, tap "Cancel"
-   - Type the medication name manually
-   - Use the regular search feature
-
-**Supported text:**
-- Latin alphabet (English characters)
-- Printed text (not handwritten)
-- Minimum text height: 5mm
-- High contrast (dark text on light background)
-
----
-
 ## 📍 Location Issues
 
 ### Location Not Detecting Country
@@ -496,7 +415,6 @@ Having issues with MediGlobe? This guide will help you resolve common problems q
 
 **Common issues:**
 - Slower search performance
-- Camera scanner slower
 - Occasional freezing
 
 **Solutions:**
@@ -819,8 +737,8 @@ Additional Information:
 **Solution:** **Always consult your doctor!** App is informational only
 
 ### Mistake 4: Not Granting Permissions
-**Problem:** "Camera doesn't work"
-**Solution:** Grant camera permission in Settings
+**Problem:** "Location doesn't work"
+**Solution:** Grant location permission in Settings
 
 ### Mistake 5: Searching Without Internet
 **Problem:** "Nothing found"
